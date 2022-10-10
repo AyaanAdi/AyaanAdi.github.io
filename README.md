@@ -1,6 +1,4 @@
 # The cool website of Ayaan Adi
-This is me
+Presentation is here: https://docs.google.com/presentation/d/1-2PYsk-SnaOKqOJm_-4CJ_s9YHOWvLDC/edit?usp=drivesdk&ouid=105623433023289968630&rtpof=true&sd=true
 
 
-
-![20220809_134817](https://user-images.githubusercontent.com/110984152/183915838-52e9e5da-21bf-4fda-8f21-71c41c598e6f.jpg)
