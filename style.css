@@ -1,0 +1,45 @@
+body{
+    background-color: black;
+}
+h1{
+    color: white;
+    text-shadow: 3px 3px 5px blue , -3px -3px 5px red;
+}
+#Img1{ 
+    height:100px;
+    width:100px;
+    border-radius: 50px;
+    float:left;
+    margin-top:10px;
+    margin-right:10px;
+}
+#username{
+    color: purple;
+}
+p{
+    color: white;
+}
+#Box1{
+    display: flow-root;
+}
+#Img2{
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+    float: right;
+    margin-left: 15px;
+  }
+.Intro{
+    font-style: italic;
+    font-weight: bolder;
+    color: purple;
+  }
+#Box2{
+    display: flow-root;
+}
+#Img3{
+    Width: 200px;
+    float:left;
+    margin-right:15px;
+    border-radius:10px;
+}
